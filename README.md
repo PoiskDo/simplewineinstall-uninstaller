@@ -1,0 +1,2 @@
+# simplewineinstall-uninstaller
+simplewineinstall-uninstaller
